@@ -1,3 +1,3 @@
-# apk is being automated
+# apk is being generated
 
 
